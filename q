@@ -1,0 +1,15 @@
+Revert "Voltando o título e gitignore"
+
+This reverts commit 3234629bcf6df21bf77d6c1ed26264bbd5ed1d3c.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	deleted:    "Jogo N\303\272mero Secreto/.gitignote"
+#	modified:   "Jogo N\303\272mero Secreto/index.html"
+#	deleted:    "Jogo N\303\272mero Secreto/temp/teste.txt"
+#
